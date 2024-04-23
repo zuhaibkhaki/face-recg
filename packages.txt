@@ -7,7 +7,3 @@ libgtk-3-dev
 libboost-python-dev
 libavdevice-dev libavfilter-dev libavformat-dev
 libavcodec-dev libswresample-dev libswscale-dev
-libavutil-dev
-libjxl' found
-libjxl_cms
-libjxl_threads
