@@ -11,4 +11,3 @@ libavutil-dev
 libjxl' found
 libjxl_cms
 libjxl_threads
-libjxl-dev 
