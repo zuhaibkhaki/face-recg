@@ -1,0 +1,13 @@
+name: my_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - cmake
+  - dlib
+  - matplotlib
+  - mtcnn
+  - opencv-python
+  - tensorflow
+  - face-recognition
+  - face-recognition-models
