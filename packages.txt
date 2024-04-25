@@ -1,7 +1,10 @@
 build-essential 
 cmake 
-pkg-config 
+pkg-config
+libjxl
 libx11-dev 
+libjxl_cms
+libjxl_threads
 libatlas-base-dev 
 libgtk-3-dev 
 libboost-python-dev
